@@ -1,0 +1,11 @@
+python 3.13
+streamlit
+ollama
+pandas
+numpy
+matplotlib
+scikit-learn
+nltk
+transformers
+torch
+sentence-transformers
